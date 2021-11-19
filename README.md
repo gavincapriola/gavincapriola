@@ -7,4 +7,3 @@
 You can find and get touch with me on these accounts 👀
 - Instagram: [@gavincapriola](https://www.instagram.com/gavincapriola/)
 - Twitter: [@gavincapriola](https://twitter.com/gavincapriola)
-- GitHub: [@gavincapriola](https://github.com/gavincapriola)
