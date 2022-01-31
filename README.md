@@ -1,6 +1,6 @@
 ## Gavin Capriola
 
-![Gavin Capriola's github stats](https://github-readme-stats.vercel.app/api?username=gavincapriola&count_private=true&show_icons=true&theme=radical)
+![Gavin Capriola's github stats](https://github-readme-stats.vercel.app/api?username=gavincapriola&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
