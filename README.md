@@ -1,4 +1,4 @@
-## Gavin Capriola ![Gavin Capriola's Twitter Followers](https://img.shields.io/twitter/follow/gavincapriola?logo=twitter)
+## Gavin Capriola [![Gavin Capriola's Twitter Followers](https://img.shields.io/twitter/follow/gavincapriola?logo=twitter)](https://twitter.com/gavincapriola)
 
 ![Gavin Capriola's Github Stats](https://github-readme-stats.vercel.app/api?username=gavincapriola&show_icons=true&theme=radical)
 
